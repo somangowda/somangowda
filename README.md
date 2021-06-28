@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @soman
-- 👀 I’m interested in Golang...
-- 🌱 I’m currently learning K8's...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @somangowda
+- 👀 I’m interested in Golang, docker, K8's
+- 🌱 I’m currently learning K8's
 - 📫 How to reach me somangouda@gmail.com
 
 <!---
